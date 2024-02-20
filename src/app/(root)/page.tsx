@@ -5,7 +5,6 @@ const Home = () => {
   return (
     <div className="h-screen w-full">
       <h1>HOME</h1>
-      <UserButton afterSignOutUrl='/sign-in' />
     </div>
   );
 };
